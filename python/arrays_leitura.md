@@ -1,8 +1,6 @@
-# Leitura arrays
+# String sem repetição
 
-## Visão Geral
-
-
+## Código da resolução
 
 ```Python
 ls = "eu moro em uma casa azul em uma casa azul"
