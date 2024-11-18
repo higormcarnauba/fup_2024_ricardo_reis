@@ -3,18 +3,15 @@
 ## Configuração e Aquecimento
 
 ### Configuração de ambiente<!-- +xp:0 -->
+- [ ] `#Vscode        .`[Instale o VSCode](https://code.visualstudio.com/download)
 
-- [ ] `#git        .`[Introdução ao git](wiki/git/README.md)
-- [ ] `#github_edu .`[Habilitando a conta Educational no Github](wiki/git/github.md)
-- [ ] `#tko        .`[Instalando e configurando o tko](https://github.com/senapk/tko?tab=readme-ov-file#instala%C3%A7%C3%A3o)
-- [ ] `#chaves_ssh .`[Criando repositórios local em máquina pessoal ou pública](wiki/git/chaves.md)
+## Linguagem Python
+
 
 ### Conteúdo extra
 
-- [ ] `#uml_full   .`[Relacionamentos](wiki/relacionamento/README.md)
-- [ ] `#uml_mini   .`[Relacionamentos Resumo](wiki/uml/README.md)
-- [ ] `#relatorios .`[Como fazer os códigos e relatórios](wiki/relatorio/README.md)
-- [ ] `#cmd_in_out .`[Criando a Main](wiki/main/README.md)
+- [ ] `#git        .`[Introdução ao git](wiki/git/README.md)
+- [ ] `#github_edu .`[Habilitando a conta Educational no Github](wiki/git/github.md)
 
 ### Estressados Básicos
 
