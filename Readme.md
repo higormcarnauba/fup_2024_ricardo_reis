@@ -1,6 +1,6 @@
 # Repositório de POO
 
-## Configuração e Aquecimento
+## Configurações básicas
 
 ### Configuração de ambiente<!-- +xp:0 -->
 - [ ] `#Vscode        .`[Instale o VSCode](https://code.visualstudio.com/download)
