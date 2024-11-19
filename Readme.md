@@ -8,9 +8,9 @@
 - [ ] `#Python        .`[Como Instalar o python e configurar o Vscode](wiki/git/README.md)
 
 ## Linguagem Python
-- [ ] `@semRepetição      .`[Leitura arrays](python/sem_repeticao.md)
-- [ ] `@collatz           .`[Revisão Arrays](python/collatz.md)
-- [ ] `@numerosPerfeitos  .`[Arrays - Prática](python/numeros_perfeitos.md)
+- [ ] `@semRepetição      .`[String sem repetição](python/sem_repeticao.md)
+- [ ] `@numerosPerfeitos  .`[Números Perfeitos](python/numeros_perfeitos.md)
+- [ ] `@collatz           .`[Função Collatz](python/collatz.md)
 - [ ] `@zerosFatorialMil  .`[Arrays - Prática](typescript/arrays_pratica.md)
 - [ ] `@validarCPF        .`[Arrays - Prática](typescript/arrays_pratica.md)
 - [ ] `@ordernarLista     .`[Arrays - Prática](typescript/arrays_pratica.md)
