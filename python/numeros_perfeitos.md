@@ -18,5 +18,8 @@ def numerosDiferentes(i):
 
 y = 9876543210
 
-print("Número Perfeito" if numerosDiferentes(y) == True else "Número NÃO é Perfeito")
+if numerosDiferentes(y) == True:
+    print("Número Perfeito")
+else:
+    print("Número NÃO é Perfeito")
 ```

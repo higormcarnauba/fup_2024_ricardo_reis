@@ -11,7 +11,7 @@
 - [ ] `@semRepetição      .` [String sem repetição](python/sem_repeticao.md)
 - [ ] `@numerosPerfeitos  .` [Números Perfeitos](python/numeros_perfeitos.md)
 - [ ] `@collatz           .` [Função Collatz](python/collatz.md)
-- [ ] `@zerosFatorialMil  .` [Arrays - Prática](typescript/zeros_fatorial_mil.md)
+- [ ] `@zerosFatorialMil  .` [Arrays - Prática](python/zeros_fatorial_mil.md)
 <!--
 - [ ] `@validarCPF        .` [Arrays - Prática](typescript/arrays_pratica.md)
 - [ ] `@ordernarLista     .` [Arrays - Prática](typescript/arrays_pratica.md) 
