@@ -1,5 +1,7 @@
 # Descubra se o número é perfeito
 
+
+
 ## Código da resolução
 
 ```Python
