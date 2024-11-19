@@ -7,7 +7,7 @@
 - [ ] `#WSL           .` [Como instalar e configurar o WSL no Terminal](https://code.visualstudio.com/download)
 - [ ] `#Python        .` [Como Instalar o python e configurar o Vscode](wiki/git/README.md)
 
-## Linguagem Python
+## Resolução das atividades na linguagem Python
 - [ ] `@semRepetição      .` [String sem repetição](python/sem_repeticao.md)
 - [ ] `@numerosPerfeitos  .` [Números Perfeitos](python/numeros_perfeitos.md)
 - [ ] `@collatz           .` [Função Collatz](python/collatz.md)
