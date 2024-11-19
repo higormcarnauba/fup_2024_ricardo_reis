@@ -13,7 +13,7 @@
     - [Python](https://www.python.org/downloads/)
 - Ubuntu
   - Use o terminal com o seguinte código: 
-    - sudo apt-get install python3.9
+    - `sudo apt-get install python3.9`
   - Ou veja o tutorial abaixo
     - [Python](https://python.org.br/instalacao-linux/)
 
