@@ -12,8 +12,8 @@
 - [ ] `@numerosPerfeitos  .` [Números Perfeitos](python/numeros_perfeitos.md)
 - [ ] `@collatz           .` [Função Collatz](python/collatz.md)
 - [ ] `@zerosFatorialMil  .` [Arrays - Prática](typescript/arrays_pratica.md)
-- [ ] `@validarCPF        .` [Arrays - Prática](typescript/arrays_pratica.md)
->- [ ] `@ordernarLista     .` [Arrays - Prática](typescript/arrays_pratica.md)
+## - [ ] `@validarCPF        .` [Arrays - Prática](typescript/arrays_pratica.md)
+## - [ ] `@ordernarLista     .` [Arrays - Prática](typescript/arrays_pratica.md)
 
 
 ### Conteúdo extra
