@@ -8,18 +8,19 @@
 
 - Windows
   - Veja o tutorial abaixo
-    - [Python](https://python.org.br/instalacao-windows/)
+    - [Guia de Instalação](https://python.org.br/instalacao-windows/)
   - ou vá direto pra pagina do site
-    - [Python](https://www.python.org/downloads/)
+    - [Link para download](https://www.python.org/downloads/)
 - Ubuntu
   - Use o terminal com o seguinte código: 
     - `sudo apt-get install python3.9`
   - Ou veja o tutorial abaixo
-    - [Python](https://python.org.br/instalacao-linux/)
+    - [Guida de Instalação Linux](https://python.org.br/instalacao-linux/)
 
-## Configuração Inicial se estiver na sua máquina local ao invés do Codespace
+## Configuração Inicial para o VSCODE
 
-- `git config --global user.name "seu nome"`
+- Instale a extensão "Python" da microsoft
+![alt text](extensao.png)
 - `git config --global user.email "seu email"`
 - Para reduzir a quantidade de vezes que vocês digitam usuário e senha, você pode orientar o git a armazenar suas credenciais no cache:
   - `git config credential.helper cache`
