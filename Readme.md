@@ -1,4 +1,4 @@
-# Repositório de FUP 2024.py
+# Repositório de FUP 2024
 Professor: Ricardo Reis
 
 ## Configurações básicas
