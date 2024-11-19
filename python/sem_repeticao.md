@@ -1,4 +1,6 @@
 # String sem repetição
+    Faça uma função que receba uma string, e elimine as palavras repetidas dessa string.
+
 
 ## Código da resolução
 

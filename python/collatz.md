@@ -4,8 +4,8 @@
     Depois adicione esse número a uma lista, até que o número se torne um, Depois retorne essa lista
     e imprima na tela.
     
-    Desafio: Você pode tentar fazer de uma forma que descubra entre 2 a 1000 qual possui a maior
-    sequência da função de collatz, e dizer qual é o intervalo dessa sequência
+    Desafio: Você pode tentar fazer de uma forma que descubra entre 2 a 1000 qual número possui
+    a maior sequência da função de collatz, e dizer qual é o intervalo dessa sequência
 
 
 ## Código da resolução
