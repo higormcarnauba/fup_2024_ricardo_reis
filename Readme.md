@@ -4,8 +4,8 @@
 
 ### Configuração de ambiente<!-- +xp:0 -->
 - [ ] `#Vscode        .` [Instale o VSCode](https://code.visualstudio.com/download)
-- [ ] `#WSL           .` [Como instalar e configurar o WSL no Terminal](https://code.visualstudio.com/download)
 - [ ] `#Python        .` [Como Instalar o python e configurar o Vscode](wiki/git/README.md)
+- [ ] `#WSL           .` [Como instalar e configurar o WSL no Terminal](https://code.visualstudio.com/download)
 
 ## Resolução das atividades na linguagem Python
 - [ ] `@semRepetição      .` [String sem repetição](python/sem_repeticao.md)
