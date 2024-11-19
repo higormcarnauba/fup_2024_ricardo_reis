@@ -1,4 +1,5 @@
-# Repositório de POO
+# Repositório de FUP 2024.py
+Professor: Ricardo Reis
 
 ## Configurações básicas
 
@@ -24,3 +25,5 @@
 
 - [ ] `#git        .` [Introdução ao git](wiki/git/README.md)
 - [ ] `#github_edu .` [Habilitando a conta Educational no Github](wiki/git/github.md)
+
+FORK DO REPOSITÓIO DE POO DO DAVID SENNA
