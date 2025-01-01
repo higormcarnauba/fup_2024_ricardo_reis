@@ -21,8 +21,3 @@
 
 - Instale a extensão "Python" da microsoft
 ![alt text](extensao.png)
-- `git config --global user.email "seu email"`
-- Para reduzir a quantidade de vezes que vocês digitam usuário e senha, você pode orientar o git a armazenar suas credenciais no cache:
-  - `git config credential.helper cache`
-
-Se estiver utilizando a máquina do laboratório, lembre de configurar pelo menos o email.
