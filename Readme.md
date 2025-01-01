@@ -7,7 +7,7 @@
 - [ ] `#Python        .` [Como Instalar o python e configurar o Vscode](wiki/py/README.md)
 - [ ] `#WSL           .` [Como instalar e configurar o WSL no Terminal](https://code.visualstudio.com/download)
 
-## Resolução das atividades na linguagem Python
+## Resolução das primeiras atividades na linguagem Python
 - [ ] `@semRepetição      .` [String sem repetição](python/sem_repeticao.md)
 - [ ] `@numerosPerfeitos  .` [Números Perfeitos](python/numeros_perfeitos.md)
 - [ ] `@collatz           .` [Função Collatz](python/collatz.md)
@@ -16,7 +16,35 @@
 - [ ] `@validarCPF        .` [Arrays - Prática](typescript/arrays_pratica.md)
 - [ ] `@ordernarLista     .` [Arrays - Prática](typescript/arrays_pratica.md) 
 -->
+## Resolução da Semana 01
+- [ ] `@casamento: Maior e menorLaboratórioo       .` [String sem repetição](python/sem_repeticao.md)
+- [ ] `@intervalada: Busca intervaladaLaboratório  .` [Números Perfeitos](python/numeros_perfeitos.md)
+- [ ] `@jedi: Cabo de GuerraLaboratório            .` [Função Collatz](python/collatz.md)
+- [ ] `@invertendo: - Invertendo vetorLaboratório  .` [Arrays - Prática](python/zeros_fatorial_mil.md)
 
+## Resolução da Semana 02
+- [ ] `@exemplares: - Arca quantos exemplares       .` [String sem repetição](python/sem_repeticao.md)
+- [ ] `@fila: - Separar Pares e Ímpares             .` [Números Perfeitos](python/numeros_perfeitos.md)
+- [ ] `@eh_perm: É permutação                       .` [Função Collatz](python/collatz.md)
+- [ ] `@indices: Para onde foi cada valor           .` [Arrays - Prática](python/zeros_fatorial_mil.md)
+
+## Resolução da Semana 03
+- [ ] `@casamento: Maior e menorLaboratórioo       .` [String sem repetição](python/sem_repeticao.md)
+- [ ] `@intervalada: Busca intervaladaLaboratório  .` [Números Perfeitos](python/numeros_perfeitos.md)
+- [ ] `@jedi: Cabo de GuerraLaboratório            .` [Função Collatz](python/collatz.md)
+- [ ] `@invertendo: - Invertendo vetorLaboratório  .` [Arrays - Prática](python/zeros_fatorial_mil.md)
+
+## Resolução da Semana 04
+- [ ] `@casamento: Maior e menorLaboratórioo       .` [String sem repetição](python/sem_repeticao.md)
+- [ ] `@intervalada: Busca intervaladaLaboratório  .` [Números Perfeitos](python/numeros_perfeitos.md)
+- [ ] `@jedi: Cabo de GuerraLaboratório            .` [Função Collatz](python/collatz.md)
+- [ ] `@invertendo: - Invertendo vetorLaboratório  .` [Arrays - Prática](python/zeros_fatorial_mil.md)
+
+## Resolução da Semana 05
+- [ ] `@casamento: Maior e menorLaboratórioo       .` [String sem repetição](python/sem_repeticao.md)
+- [ ] `@intervalada: Busca intervaladaLaboratório  .` [Números Perfeitos](python/numeros_perfeitos.md)
+- [ ] `@jedi: Cabo de GuerraLaboratório            .` [Função Collatz](python/collatz.md)
+- [ ] `@invertendo: - Invertendo vetorLaboratório  .` [Arrays - Prática](python/zeros_fatorial_mil.md)
 
 ### Conteúdo extra
 
