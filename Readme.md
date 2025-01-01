@@ -21,31 +21,31 @@ Professor: Ricardo Reis
 -->
 ## Resolução da Semana 01
 - [ ] `@casamento: Maior e menor        .` [Maior ou Menor](python/casamento.md)
-- [ ] `@intervalada: Busca intervalada  .` [Números Perfeitos](python/numeros_perfeitos.md)
-- [ ] `@jedi: Cabo de Guerra            .` [Função Collatz](python/collatz.md)
-- [ ] `@invertendo: - Invertendo vetor  .` [Arrays - Prática](python/zeros_fatorial_mil.md)
+- [ ] `@intervalada: Busca intervalada  .` [Busca intervalada](python/intervalada.md)
+- [ ] `@jedi: Cabo de Guerra            .` [Cabo de Guerra](python/jedi.md)
+- [ ] `@invertendo: - Invertendo vetor  .` [Invertendo vetor](python/invertendo.md)
 
 ## Resolução da Semana 02
-- [ ] `@exemplares: - Arca quantos exemplares       .` [String sem repetição](python/sem_repeticao.md)
-- [ ] `@fila: - Separar Pares e Ímpares             .` [Números Perfeitos](python/numeros_perfeitos.md)
-- [ ] `@eh_perm: É permutação                       .` [Função Collatz](python/collatz.md)
-- [ ] `@indices: Para onde foi cada valor           .` [Arrays - Prática](python/zeros_fatorial_mil.md)
+- [ ] `@exemplares: - Arca quantos exemplares       .` [Arca quantos exemplares](python/exemplares.md)
+- [ ] `@fila: - Separar Pares e Ímpares             .` [Separar Pares e Ímpares](python/fila.md)
+- [ ] `@eh_perm: É permutação                       .` [É permutação](python/eh_perm.md)
+- [ ] `@indices: Para onde foi cada valor           .` [Para onde foi cada valor](python/indices.md)
 
 ## Resolução da Semana 03
-- [ ] `@ceu: Ingrid quer chegar no céu             .` [String sem repetição](python/sem_repeticao.md)
-- [ ] `@cartas: - Transformando números em letras  .` [Números Perfeitos](python/numeros_perfeitos.md)
+- [ ] `@ceu: Ingrid quer chegar no céu             .` [Ingrid quer chegar no céu](python/ceu.md)
+- [ ] `@cartas: - Transformando números em letras  .` [Transformando números em letras](python/cartas.md)
 
 ## Resolução da Semana 04
-- [ ] `@botas: Botas trocadas - OBI 2017       .` [String sem repetição](python/sem_repeticao.md)
-- [ ] `@cofre: O segredo do cofre - OBI 2017   .` [Números Perfeitos](python/numeros_perfeitos.md)
-- [ ] `@agua: Abastecimento de agua            .` [Função Collatz](python/collatz.md)
-- [ ] `@dieta: Rubens comendo no Brolio        .` [Arrays - Prática](python/zeros_fatorial_mil.md)
+- [ ] `@botas: Botas trocadas - OBI 2017       .` [Botas trocadas](python/botas.md)
+- [ ] `@cofre: O segredo do cofre - OBI 2017   .` [O segredo do cofre](python/cofre.md)
+- [ ] `@agua: Abastecimento de agua            .` [Abastecimento de agua](python/agua.md)
+- [ ] `@dieta: Rubens comendo no Brolio        .` [Rubens comendo no Brolio](python/dieta.md)
 
 ## Resolução da Semana 05
-- [ ] `@casamento: Maior e menor        .` [Maior ou Menor](python/casamento.md)
-- [ ] `@blackjack: Conte as cartas no 21      .` [Números Perfeitos](python/numeros_perfeitos.md)
-- [ ] `@facil: Trila Modo fácil - OBI 2005    .` [Função Collatz](python/collatz.md)
-- [ ] `@poco: Sapinho 2 morrendo no poço      .` [Arrays - Prática](python/zeros_fatorial_mil.md)
+- [ ] `@casamento: Maior e menor              .` [Maior ou Menor](python/casamento.md)
+- [ ] `@blackjack: Conte as cartas no 21      .` [Conte as cartas no 21](python/blackjack.md)
+- [ ] `@facil: Trila Modo fácil - OBI 2005    .` [Trila Modo fácil](python/facil.md)
+- [ ] `@poco: Sapinho morrendo no poço        .` [Sapinho morrendo no poço](python/poco.md)
 
 ### Conteúdo extra
 
