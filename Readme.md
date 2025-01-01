@@ -20,10 +20,10 @@ Professor: Ricardo Reis
 - [ ] `@ordernarLista     .` [Arrays - Prática](typescript/arrays_pratica.md) 
 -->
 ## Resolução da Semana 01
-- [ ] `@casamento: Maior e menorLaboratórioo       .` [String sem repetição](python/sem_repeticao.md)
-- [ ] `@intervalada: Busca intervaladaLaboratório  .` [Números Perfeitos](python/numeros_perfeitos.md)
-- [ ] `@jedi: Cabo de GuerraLaboratório            .` [Função Collatz](python/collatz.md)
-- [ ] `@invertendo: - Invertendo vetorLaboratório  .` [Arrays - Prática](python/zeros_fatorial_mil.md)
+- [ ] `@casamento: Maior e menor        .` [Maior ou Menor](python/casamento.md)
+- [ ] `@intervalada: Busca intervalada  .` [Números Perfeitos](python/numeros_perfeitos.md)
+- [ ] `@jedi: Cabo de Guerra            .` [Função Collatz](python/collatz.md)
+- [ ] `@invertendo: - Invertendo vetor  .` [Arrays - Prática](python/zeros_fatorial_mil.md)
 
 ## Resolução da Semana 02
 - [ ] `@exemplares: - Arca quantos exemplares       .` [String sem repetição](python/sem_repeticao.md)
@@ -32,22 +32,20 @@ Professor: Ricardo Reis
 - [ ] `@indices: Para onde foi cada valor           .` [Arrays - Prática](python/zeros_fatorial_mil.md)
 
 ## Resolução da Semana 03
-- [ ] `@casamento: Maior e menorLaboratórioo       .` [String sem repetição](python/sem_repeticao.md)
-- [ ] `@intervalada: Busca intervaladaLaboratório  .` [Números Perfeitos](python/numeros_perfeitos.md)
-- [ ] `@jedi: Cabo de GuerraLaboratório            .` [Função Collatz](python/collatz.md)
-- [ ] `@invertendo: - Invertendo vetorLaboratório  .` [Arrays - Prática](python/zeros_fatorial_mil.md)
+- [ ] `@ceu: Ingrid quer chegar no céu             .` [String sem repetição](python/sem_repeticao.md)
+- [ ] `@cartas: - Transformando números em letras  .` [Números Perfeitos](python/numeros_perfeitos.md)
 
 ## Resolução da Semana 04
-- [ ] `@casamento: Maior e menorLaboratórioo       .` [String sem repetição](python/sem_repeticao.md)
-- [ ] `@intervalada: Busca intervaladaLaboratório  .` [Números Perfeitos](python/numeros_perfeitos.md)
-- [ ] `@jedi: Cabo de GuerraLaboratório            .` [Função Collatz](python/collatz.md)
-- [ ] `@invertendo: - Invertendo vetorLaboratório  .` [Arrays - Prática](python/zeros_fatorial_mil.md)
+- [ ] `@botas: Botas trocadas - OBI 2017       .` [String sem repetição](python/sem_repeticao.md)
+- [ ] `@cofre: O segredo do cofre - OBI 2017   .` [Números Perfeitos](python/numeros_perfeitos.md)
+- [ ] `@agua: Abastecimento de agua            .` [Função Collatz](python/collatz.md)
+- [ ] `@dieta: Rubens comendo no Brolio        .` [Arrays - Prática](python/zeros_fatorial_mil.md)
 
 ## Resolução da Semana 05
-- [ ] `@casamento: Maior e menorLaboratórioo       .` [String sem repetição](python/sem_repeticao.md)
-- [ ] `@intervalada: Busca intervaladaLaboratório  .` [Números Perfeitos](python/numeros_perfeitos.md)
-- [ ] `@jedi: Cabo de GuerraLaboratório            .` [Função Collatz](python/collatz.md)
-- [ ] `@invertendo: - Invertendo vetorLaboratório  .` [Arrays - Prática](python/zeros_fatorial_mil.md)
+- [ ] `@casamento: Maior e menor        .` [Maior ou Menor](python/casamento.md)
+- [ ] `@blackjack: Conte as cartas no 21      .` [Números Perfeitos](python/numeros_perfeitos.md)
+- [ ] `@facil: Trila Modo fácil - OBI 2005    .` [Função Collatz](python/collatz.md)
+- [ ] `@poco: Sapinho 2 morrendo no poço      .` [Arrays - Prática](python/zeros_fatorial_mil.md)
 
 ### Conteúdo extra
 
